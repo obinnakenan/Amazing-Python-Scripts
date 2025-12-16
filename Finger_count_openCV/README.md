@@ -102,9 +102,6 @@ If you pass cv.CHAIN_APPROX_NONE, all the boundary points are stored. But actual
 Below image of a rectangle demonstrate this technique. Just draw a circle on all the coordinates in the contour array (drawn in blue color). First image shows points I got with cv2.CHAIN_APPROX_NONE (734 points) and second image shows the one with cv2.CHAIN_APPROX_SIMPLE (only 4 points). See, how much memory it saves!!!
 
 
-![Chain Approximattion](./approx.jpg "Approximation simple")
-
-
 ### Convex Hull
 
     hull = cv2.convexHull(contour, returnPoints=False)
@@ -153,9 +150,3 @@ Parameters
             cv2.line(crop_image, start, end, [0, 255, 0], 2)
         
 Two fingers will create a angle less than 90 deg between them, Thus we count the number of angles less than 90 in the contours and add one to get the number of fingers. 
-
-## Author(s)
-
-Sohil Khan
-<br> Github Username: sohil1234
-
