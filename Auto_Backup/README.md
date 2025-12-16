@@ -40,7 +40,3 @@ Directory After Backup
 Size Comparison after and before - 
 
 ![CLI2](https://i.postimg.cc/2bryCLwR/size.png)
-
-## Author(s)
-
-Made by [Vybhav Chaturvedi](https://www.linkedin.com/in/vybhav-chaturvedi-0ba82614a/)
