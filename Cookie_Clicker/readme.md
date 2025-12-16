@@ -13,10 +13,3 @@ pip install -r requirements.txt
 ## Output
 
 ![Cookie Clicker](image.png)
-
-## Author(s)
-
-Harsh Pandey
-
-## Disclaimers, if any
-
