@@ -9,5 +9,3 @@ This Script is an Clean Up photo directory before that we need to import os Then
 **conclusion:** 
 
 This Just a Script That we can allow to clean up photos from the terminal itself!
-
-#### By [Kalivarapubindusree]() 
