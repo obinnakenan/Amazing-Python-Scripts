@@ -17,6 +17,3 @@ sudo apt-get install python3-tk
 User should select an image and the script returns an output image of borders of the objects in it.  
 The input image is converted into binary format and then we use morphological transformation of dilation minus erosion.  
 **Note** The threshold value while converting an image into binary format needs to be adjusted for every image.
-
-## Author
-Github: invigorzz313
