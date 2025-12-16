@@ -20,6 +20,3 @@ User is prompted to select an image and this script detects circles in it using 
 minDist(minimum distance between two centers), param1(parameter 1), param2(parameter 2) are to be adjusted until we get desired output.
 
 The output image is written/stored in the current folder.
-
-## Author
-Github: invigorzz313
