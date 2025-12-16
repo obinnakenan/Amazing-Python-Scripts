@@ -30,6 +30,3 @@ The program will ask you to enter:
 ## PDF Output:
 ![Imgur](https://i.imgur.com/1iMC7PE.png)
 ![GIF](https://media.giphy.com/media/lQ95K1IzUGB2tiqlmZ/giphy.gif)
-
-## Author
-[ Akhil Bhalerao ](https://github.com/iamakkkhil)
