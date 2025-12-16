@@ -9,5 +9,3 @@ It is GUI based calculator used to calculate any simple mathematical equation.
 - It takes the mathematical equation by the User.
 
 - It returns the result of the mathematical equation.
-
-#### By [Avinash Kr. Ranjan](https://github.com/avinashkranjan)
