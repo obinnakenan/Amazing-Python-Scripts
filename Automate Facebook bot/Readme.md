@@ -29,7 +29,3 @@
     - pyautogui
     - time
     
-## Author
-   
-   Amit Kumar Mishra
-
