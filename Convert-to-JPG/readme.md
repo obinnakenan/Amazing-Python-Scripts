@@ -13,7 +13,3 @@ It converts any photo format to JPG format photo.
 ## Output
 
 image in jpg format
-
-## Author(s)
-
-[Avinash Kr. Ranjan](https://github.com/avinashkranjan)
