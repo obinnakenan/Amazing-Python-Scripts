@@ -45,6 +45,3 @@ python manage.py runserver
 ![](https://github.com/pritamp17/Calculate-Distance/blob/main/django-1-test2.png)
 ![](https://github.com/pritamp17/Calculate-Distance/blob/main/django-2-test2.png)
 ![](https://github.com/pritamp17/Calculate-Distance/blob/main/django-3-test2.png)
-
-# Author
-[Pritam Pawar](https://github.com/pritamp17)
