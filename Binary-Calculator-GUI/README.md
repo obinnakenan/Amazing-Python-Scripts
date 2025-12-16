@@ -12,5 +12,3 @@ A GUI based Standard Binary number calculator.
 - Calculates the binary number.
 
 - It Returns the result in a binary number. 
-
-#### By [Avinash Kr. Ranjan](https://github.com/avinashkranjan)
