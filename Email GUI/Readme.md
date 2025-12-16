@@ -30,8 +30,4 @@
 
 - smtplib
 - tkinter
-    
-## Author
-   
-[Amit Kumar Mishra](https://github.com/Amit366)
 
