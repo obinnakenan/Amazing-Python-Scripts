@@ -75,7 +75,3 @@ have similar contents. So in the script all we aim to do is determine the checks
 >Also notice that similar files but wth different extensions are not deleted, cause technically they aren't same.
 
 ![Pasting the Magnet Link](https://i.imgur.com/d8VXy5m.png)
-
-## Author(s)
-
-Made by [Vybhav Chaturvedi](https://www.linkedin.com/in/vybhav-chaturvedi-0ba82614a/)
