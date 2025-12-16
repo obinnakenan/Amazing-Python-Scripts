@@ -31,8 +31,3 @@ Navigate to the project directory and run the following commands :
 
 <img src="output.png">
 
-## Author
-
-
- * <a href="https://github.com/singhchanmeet"> Chanmeet Singh </a>
-
