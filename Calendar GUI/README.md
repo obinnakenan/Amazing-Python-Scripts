@@ -12,8 +12,3 @@ On running `Calendar_gui.py`.
 
 
 [![Calendar-for-the-year.png](https://i.postimg.cc/5yDwq60C/Calendar-for-the-year.png)](https://postimg.cc/LgBYm4j9)
-
-
-## Author
-[Aishwarya Chand](https://github.com/aishwaryachand)
-
