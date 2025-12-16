@@ -57,5 +57,3 @@ Check 1 (Syntax) Passed
 Check 2 (DNS - mta5.am0.yahoodns.net.) Passed
 Check 3 HALTED! The domain yahoo.com , either does not have an SMTP or have restricted access through external scripts
 ```
-
-#### By [Md Salik](https://github.com/saaalik)
