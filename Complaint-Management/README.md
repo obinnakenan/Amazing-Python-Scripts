@@ -33,12 +33,4 @@ use python 3 and above to use this **COMPLAINT MANAGEMENT SYSTEM** program.
 
 ![image](https://github.com/avinashkranjan/Amazing-Python-Scripts/assets/114330097/a40ba02f-fede-4915-a52b-7086c70be5d9)
 
-<br>
 
-## Created By 👦
-
-[Avdhesh Varshney](https://github.com/Avdhesh-Varshney)
-
-<br>
-
-### Happy Coding !
